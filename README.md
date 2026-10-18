@@ -2,7 +2,7 @@
 
 A responsive music player web app built with HTML, CSS and vanilla JavaScript. It has a home screen with a song list and a full player screen, in the style of popular streaming apps.
 
-**Live demo:** [YOUR-LINK-HERE](YOUR-LINK-HERE)
+**Live demo:** https://dhun-player.vercel.app/
 
 ## Features
 
